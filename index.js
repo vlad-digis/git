@@ -14,7 +14,9 @@ function myFunction () {
     return 2;
 }
 
-
+function function2 (){
+    return 'probably with conflicts'
+}
 
 console.log(1)
 console.log(2)
